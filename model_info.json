@@ -1,0 +1,18 @@
+{
+    "model_name": "Gradient Boosting (Optimized)",
+    "features": [
+        "PRS (kPa)",
+        "TEM (\u2103)",
+        "RHU (%)",
+        "HI (\u2103)",
+        "SPEED (km/h)",
+        "ACC (m/s2)",
+        "VSP (kW/ton)"
+    ],
+    "target": "FCR (ml/s)",
+    "test_r2": 0.5687970183695301,
+    "test_rmse": 0.5821984725722109,
+    "test_mae": 0.349912240628398,
+    "n_samples_train": 164099,
+    "n_samples_test": 51282
+}
